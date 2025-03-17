@@ -1,1 +1,1 @@
-This is test SPM project
+This is test SPM project.
